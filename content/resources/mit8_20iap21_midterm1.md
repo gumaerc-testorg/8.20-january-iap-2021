@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31206b29-0d40-cf5f-b4ff-09b0f25f63fd
 resourcetype: Document
 title: '8.20 Introduction to Special Relativity, Midterm 1 '
 uid: bd8d8540-6f09-555f-3a58-dace3d852c89

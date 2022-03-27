@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3c77852e-dc8f-16b7-03e2-4517bdb2fdef
 resourcetype: Document
 title: 8.20 Introduction to Special Relativity, PSet 1
 uid: d1ce5970-95a3-26f8-c08e-cdaf4f63b602

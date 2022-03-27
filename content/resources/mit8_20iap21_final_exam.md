@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31206b29-0d40-cf5f-b4ff-09b0f25f63fd
 resourcetype: Document
 title: 8.20 Introduction to Special Relativity, Final Exam
 uid: 18349be4-6cfe-ccb8-62c5-258c226423d8
