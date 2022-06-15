@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 1: Foundations of Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In Newton's mechanics, _t_ and _a_ are invariant and no inertial frame is above others. (06:14)
 
 **Instructor:** Prof. Markus Klute
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 3: Kinematics in Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Further investigation of the energy-momentum 4-vector. (03:43)
 
 **Instructor:** Prof. Markus Klute
+
+
+

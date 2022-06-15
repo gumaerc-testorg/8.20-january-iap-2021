@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 2: Spacetime in Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We derive length contraction. (03:29)
 
 **Instructor:** Prof. Markus Klute
+
+
+

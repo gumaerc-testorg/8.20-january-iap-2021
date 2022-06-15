@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 2: Spacetime in Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** A brief introduction to muons and a discussion of time dilation extending the lifetime of particles. (04:47)
 
 **Instructor:** Prof. Markus Klute
+
+
+

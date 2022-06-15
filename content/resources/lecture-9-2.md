@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 3: Kinematics in Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Discussion of elastic and inelastic collisions. Short introduction of the units of energy. (07:09)
 
 **Instructor:** Prof. Markus Klute
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 1: Foundations of Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We start the discussion of light. What is it and how does it propagate? (07:27)
 
 **Instructor:** Prof. Markus Klute
+
+
+

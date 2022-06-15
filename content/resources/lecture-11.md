@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 4: Beyond Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We discuss the electromagnetic effect in the context of special relativity. (06:36)
 
 **Instructor:** Prof. Markus Klute
+
+
+

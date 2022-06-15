@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 1: Foundations of Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** A very brief introduction to Prof. Klute's research and work at the Large Hadron Collider. (13:22)
 
 **Instructor:** Prof. Markus Klute
+
+
+

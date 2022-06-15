@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Videos for Week 4.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

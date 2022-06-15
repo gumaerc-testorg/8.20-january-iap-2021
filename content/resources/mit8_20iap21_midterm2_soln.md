@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-20-introduction-to-special-relativity-january-iap-2021/6af608f51ad6d2c0cd3465b72a4e58bc_MIT8_20iap21_midterm2_soln.pdf
+file: /courses/8-20-introduction-to-special-relativity-january-iap-2021/6af608f51ad6d2c0cd3465b72a4e58bc_MIT8_20iap21_midterm2_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

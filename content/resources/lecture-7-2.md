@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 2: Spacetime in Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We discuss the Lorentz transformation of a monochromatic plane wave and redshift. (06:03)
 
 **Instructor:** Prof. Markus Klute
+
+
+

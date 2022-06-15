@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-20-introduction-to-special-relativity-january-iap-2021/d6b12874c6039bf3f501a309073ef7b3_lRSMmxJeaKA.pdf
+file: /courses/8-20-introduction-to-special-relativity-january-iap-2021/d6b12874c6039bf3f501a309073ef7b3_lRSMmxJeaKA.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

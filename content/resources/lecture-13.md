@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 4: Beyond Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We give an overview of the material covered in 8.20 interleaved with activities. (18:13)
 
 **Instructor:** Prof. Markus Klute
+
+
+

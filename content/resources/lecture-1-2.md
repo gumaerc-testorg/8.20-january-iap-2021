@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 1: Foundations of Special Relativity'
@@ -25,6 +26,9 @@ video_metadata:
 
 **Description:** Professor David Kaiser teaches in the physics department at MIT and is also a historian of science. In this guest lecture, he describes how the most accomplished physicists of the mid-to-late 19{{< sup "th" >}} century were thinking about motion of bodies through space and time, and how, at the end of that century, a rather young and very little-known person named Albert Einstein began asking similar questions but often in very different ways. (01:13:40)
 
-[Space, Time, and Spacetime (PDF - 5.8MB)]({{< baseurl >}}/resources/mit8_20iap21_lec1_4) (Courtesy of Prof. David Kaiser. Used with permission.)
+{{% resource_link ab9a5a24-f848-f91a-bf63-86d7191e84b9 "Space, Time, and Spacetime (PDF - 5.8MB)" %}} (Courtesy of Prof. David Kaiser. Used with permission.)
 
 **Instructor:** Prof. David Kaiser
+
+
+

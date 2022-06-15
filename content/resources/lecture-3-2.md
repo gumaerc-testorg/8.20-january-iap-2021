@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 1: Foundations of Special Relativity'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** We are building a case against the ether hypothesis starting with the Michelson-Morley experiment. (05:38)
 
 **Instructor:** Prof. Markus Klute
+
+
+

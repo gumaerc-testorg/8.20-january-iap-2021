@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-20-introduction-to-special-relativity-january-iap-2021/0e03d90f8382b67167b85fb99e5428ba_MIT8_20iap21_pset1_soln.pdf
+file: /courses/8-20-introduction-to-special-relativity-january-iap-2021/0e03d90f8382b67167b85fb99e5428ba_MIT8_20iap21_pset1_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
