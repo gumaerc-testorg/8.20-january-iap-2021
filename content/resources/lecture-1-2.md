@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 {{% resource_link ab9a5a24-f848-f91a-bf63-86d7191e84b9 "Space, Time, and Spacetime (PDF - 5.8MB)" %}} (Courtesy of Prof. David Kaiser. Used with permission.)
 
 **Instructor:** Prof. David Kaiser
-
-
 

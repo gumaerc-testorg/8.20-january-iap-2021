@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Bending of light as a consequence of general relativity and how we use a total solar eclipse to test it. (04:40)
 
 **Instructor:** Prof. Markus Klute
-
-
 

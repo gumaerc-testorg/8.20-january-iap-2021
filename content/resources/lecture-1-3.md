@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Special relativity is a complete description of physical phenomena at high speed. In this short video we discuss how it fits in with other categories of physics. (03:31)
 
 **Instructor:** Prof. Markus Klute
-
-
 
