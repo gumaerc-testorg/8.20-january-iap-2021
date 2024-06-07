@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-20-introduction-to-special-relativity-january-iap-2021/1183d526491288b66927dacc392e8241_96RHvPVlxN8.pdf
+file_size: 21528
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
