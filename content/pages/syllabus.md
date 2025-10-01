@@ -22,7 +22,7 @@ Lectures: 19 sessions / 4 weeks, 1.5 hours / session
 
 This course is an introduction to Einstein's Special Theory of Relativity. We will have a couple of lectures to introduce his General Theory as well, but the principal focus will be on special relativity, which we will study in quite a bit of detail. If you have hoped to understand the physics of Lorentz contraction, time dilation, the "twin paradox," and E=mc{{< sup "2" >}}, you're in the right place.
 
-This course is a 9-unit course given in the four weeks of [Independent Activities Period (IAP)](https://web.mit.edu/iap/). A 9-unit course is roughly equivalent to 30 hours a week for four weeks, be prepared to work hard! Problem sets will come upon you quickly. So will the midterms and the final. The course will be defined by the lectures. The reading is also an important part of the course.
+This course is a 9-unit course given in the four weeks of {{% resource_link "08c9dd98-6ab4-4d6d-8c70-698dd53ee165" "Independent Activities Period (IAP)" %}}. A 9-unit course is roughly equivalent to 30 hours a week for four weeks, be prepared to work hard! Problem sets will come upon you quickly. So will the midterms and the final. The course will be defined by the lectures. The reading is also an important part of the course.
 
 ## Format
 
@@ -38,7 +38,7 @@ Resnick, Robert. _Introduction to Special Relativity_. 1st ed. Wiley, 1968. ISBN
 
 Tsamparlis, Michael. _Special Relativity: An Introduction with 200 Problems and Solutions_. Springer, 2010. ISBN: 9783642038365.
 
-Einstein, Albert. _Relativity: The Special and the General Theory._ Translated by Robert W. Lawson. New York, NY: Three Rivers Press/Random House, 1995. ISBN: 9780517884416. Also available online [on the Bartleby website](http://www.bartleby.com/173/).
+Einstein, Albert. _Relativity: The Special and the General Theory._ Translated by Robert W. Lawson. New York, NY: Three Rivers Press/Random House, 1995. ISBN: 9780517884416. Also available online {{% resource_link "042c697e-4939-43bf-8efb-e8610607e3ed" "on the Bartleby website" %}}.
 
 ## Grading
 
